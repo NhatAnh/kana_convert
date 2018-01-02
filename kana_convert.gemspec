@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["nhatanh.pham@pixta.co.jp"]
 
   spec.summary       = %q{Convert hiragana to katakana}
-  spec.description   = %q{Convert hiragana to katakan}
-  spec.homepage      = "https://pixta.jp"
+  spec.description   = %q{Convert hiragana to katakana}
+  spec.homepage      = "https://github.com/NhatAnh/kana_convert"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
