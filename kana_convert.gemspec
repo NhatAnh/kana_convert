@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Nhat Anh"]
   spec.email         = ["nhatanh.pham@pixta.co.jp"]
 
-  spec.summary       = %q{Convert hiragana to katakana}
-  spec.description   = %q{Convert hiragana to katakana}
+  spec.summary       = %q{Convert hiragana and katakana}
+  spec.description   = %q{Implement Wanakana JS library. Auto convert input to hiragana and katakana by adding "to_hiragana" or "to_katakana" to input element.}
   spec.homepage      = "https://github.com/NhatAnh/kana_convert"
   spec.license       = "MIT"
 
